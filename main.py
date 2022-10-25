@@ -1,7 +1,7 @@
 import vk_api
 
-access_token = "38e04726fa931d27226c09408652ae84d7e64afda378e2aa289972a17b5a064360f504ce3e7f22ff56035"
-group_id = "196735921"
+access_token = ""
+group_id = ""
 
 lat = "57.175961"
 long = "65.552962"
